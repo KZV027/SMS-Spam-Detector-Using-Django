@@ -2,7 +2,7 @@
 
 This project implements a machine learning model to classify SMS messages as spam or legitimate (ham). It uses **Django** to create a user-friendly web application for real-time spam detection. The model leverages **CountVectorizer** for text processing and a pre-trained classifier for spam detection.
 
-![SMSSpamdetectionDjango](https://github.com/user-attachments/assets/c27f5e02-da6d-42bb-be83-f05bf7e4441b)
+![SMSSpamdetectionDjango](https://github.com/user-attachments/assets/b0467e94-76c0-4b58-b3ce-db55dc5f6d36)
 
 
 ## Features
